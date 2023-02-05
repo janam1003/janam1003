@@ -19,6 +19,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## My Status:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=janam1003&theme=submarine-flowers&hide_border=true&border_radius=45)](https://git.io/streak-stats)
 
