@@ -2,8 +2,7 @@
 
 <p align="center">
   <span style="color:green; font-size: 100;">
-    # ✨Hello & Welcome It's Janam here 👋 ✨
-    
+    # ✨ Hello & Welcome It's Janam here ✨
   </span>
 </p>
 
