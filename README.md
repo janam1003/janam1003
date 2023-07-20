@@ -3,6 +3,7 @@
 <p align="center">
   <span style="color:green; font-size: 100;">
     Hey It's Janam here 👋 
+    ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alex63rm&data=followers,repositories,stars,commits)<br>
   </span>
 </p>
 
