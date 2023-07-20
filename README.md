@@ -1,9 +1,7 @@
 
 
 <p align="center">
-  <span style="color:green; font-size: 100;">
-    # ✨ Hello & Welcome It's Janam here ✨
-  </span>
+  <span style="color:green; font-size: 100;">✨ Hello & Welcome It's Janam here ✨</span>
 </p>
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=janam1003&data=followers,repositories,stars,commits)<br>
