@@ -2,8 +2,8 @@
 
 <p align="center">
   <span style="color:green; font-size: 100;">
-    Hey It's Janam here 👋 
-    ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alex63rm&data=followers,repositories,stars,commits)<br>
+    Hey, It's Janam here 👋 
+    ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=janam1003&data=followers,repositories,stars,commits)<br>
   </span>
 </p>
 
