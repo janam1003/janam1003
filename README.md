@@ -19,6 +19,7 @@
 
 **Database**
 
+![Firebase Cloud](https://img.shields.io/badge/Firebase_Cloud-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
