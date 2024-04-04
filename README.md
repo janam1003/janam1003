@@ -8,9 +8,6 @@
 
 ## Contact Me 
 
-![janamrai.com](https://img.shields.io/badge/janamrai.com-FF5733?style=for-the-badge)
-
-
 <a href="mailto:lucasjanamsmile@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/janam-rai-2b9438182/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
