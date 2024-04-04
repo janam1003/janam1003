@@ -50,7 +50,7 @@
 
 ## Misc
 
-![vmware](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+![vmware](https://img.shields.io/badge/vmware-000000?style=for-the-badge&logo=vmware&logoColor=white)
 ![vbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
 ## My Status:
