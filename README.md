@@ -9,6 +9,7 @@
 ## Contact Me 
 
 <a href="mailto:lucasjanamsmile@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.instagram.com/lmt10hunk/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/janam-rai-2b9438182/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## MY Skills
