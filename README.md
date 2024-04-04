@@ -49,9 +49,6 @@
 [![Scene Builder](https://img.shields.io/badge/Scene_Builder-2E8B57?style=for-the-badge&logo=JavaFX&logoColor=white)](https://gluonhq.com/products/scene-builder/)
 
 ## Misc
-
-![vmware](https://img.shields.io/badge/vmware-000000?style=for-the-badge&logo=vmware&logoColor=white)
-![vbox](https://img.shields.io/badge/vmware-183A61?logo=vmware&logoColor=white&style=for-the-badge)
 ![vbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
 ## My Status:
