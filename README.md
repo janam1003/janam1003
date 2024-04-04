@@ -51,6 +51,7 @@
 ## Misc
 
 ![vmware](https://img.shields.io/badge/vmware-000000?style=for-the-badge&logo=vmware&logoColor=white)
+![vbox](https://img.shields.io/badge/vmware-183A61?logo=vmware&logoColor=white&style=for-the-badge)
 ![vbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
 ## My Status:
