@@ -5,7 +5,7 @@
 </p>
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=janam1003&data=followers,repositories,stars,commits)<be>
-<a href="https://janamrai.com/resume/">![Resume](https://img.shields.io/badge/Resume-34B7F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)</a>
+<a href="https://janamrai.com/resume/" style="border-radius: 5px;">![Resume](https://img.shields.io/badge/Resume-34B7F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)</a>
 
 ## Contact Me 
 
