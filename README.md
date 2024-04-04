@@ -48,6 +48,11 @@
 [![NetBeans IDE](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)](https://netbeans.apache.org/)
 [![Scene Builder](https://img.shields.io/badge/Scene_Builder-2E8B57?style=for-the-badge&logo=JavaFX&logoColor=white)](https://gluonhq.com/products/scene-builder/)
 
+## Misc
+
+![vmware](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+![vbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
+
 ## My Status:
 
 <p align="center">
