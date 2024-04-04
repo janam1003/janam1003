@@ -35,7 +35,6 @@
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,7 +46,6 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 
 **Integrated Development Environment**
 
@@ -61,7 +59,7 @@
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 [![NetBeans IDE](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)](https://netbeans.apache.org/)
 [![Scene Builder](https://img.shields.io/badge/Scene_Builder-2E8B57?style=for-the-badge&logo=JavaFX&logoColor=white)](https://gluonhq.com/products/scene-builder/)
-
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ## My Status:
 
