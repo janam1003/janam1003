@@ -42,7 +42,7 @@
 ![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -51,6 +51,7 @@
 
 **Integrated Development Environment**
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge&logo=android-Studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -60,7 +61,6 @@
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 [![NetBeans IDE](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)](https://netbeans.apache.org/)
 [![Scene Builder](https://img.shields.io/badge/Scene_Builder-2E8B57?style=for-the-badge&logo=JavaFX&logoColor=white)](https://gluonhq.com/products/scene-builder/)
-![Scene Builder](https://img.shields.io/badge/Scene_Builder-0076D6?style=for-the-badge&logo=java&logoColor=white)
 
 
 ## My Status:
